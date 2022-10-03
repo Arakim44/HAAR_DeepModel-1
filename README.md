@@ -47,6 +47,13 @@
   </p>
 </div>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/20548632/193520288-a573b72a-bd71-4f44-bd7c-a083b6b4a0f1.gif" alt="demo animated"/>
+</p>
+
+<!-- ![modelDemoGif](https://user-images.githubusercontent.com/20548632/193520288-a573b72a-bd71-4f44-bd7c-a083b6b4a0f1.gif) -->
+
+
 
  
 <!-- TABLE OF CONTENTS -->
