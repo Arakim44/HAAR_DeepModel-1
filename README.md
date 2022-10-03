@@ -39,8 +39,8 @@
     <a href="https://github.com/Arakim44/HAAR_DeepModel"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Arakim44/HAAR_DeepModel">View Demo</a>
-    ·
+  <!--  <a href="https://github.com/Arakim44/HAAR_DeepModel">View Demo</a>
+    ·-->
     <a href="https://github.com/Arakim44/HAAR_DeepModel/issues">Report Bug</a>
     ·
     <a href="https://github.com/Arakim44/HAAR_DeepModel/issues">Request Feature</a>
@@ -48,7 +48,7 @@
 </div>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/20548632/193520288-a573b72a-bd71-4f44-bd7c-a083b6b4a0f1.gif" alt="demo animated"/>
+<img src="https://user-images.githubusercontent.com/20548632/193520288-a573b72a-bd71-4f44-bd7c-a083b6b4a0f1.gif" alt="Model Demo GIF"/>
 </p>
 
 <!-- ![modelDemoGif](https://user-images.githubusercontent.com/20548632/193520288-a573b72a-bd71-4f44-bd7c-a083b6b4a0f1.gif) -->
