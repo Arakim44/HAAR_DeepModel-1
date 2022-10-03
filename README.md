@@ -36,7 +36,7 @@
   <p align="center">
     Preventing accident on ship and alert for help is the goal for the detection algorithm. Prevent more accidents, save more lives. 
     <br />
-    <a href="https://github.com/Arakim44/HAAR_DeepModel"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Smart-Safety-Ocean/HAAR_DeepModel/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   <!--  <a href="https://github.com/Arakim44/HAAR_DeepModel">View Demo</a>
